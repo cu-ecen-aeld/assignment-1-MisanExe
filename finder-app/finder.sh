@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 #test user input
 if [ $# -ne 2 ] 
 then
